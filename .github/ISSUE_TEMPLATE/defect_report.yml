@@ -36,7 +36,7 @@ body:
           3. Scroll down to '...'
           4. See error
 
-        We encourage you provide a reproducer. If you are unable to, at least provide us with a sample XHTML and bean.
+        We encourage you provide a reproducer. If you are unable to, at least provide us with a sample HTML and bean.
       # yamllint enable rule:line-length
     validations:
       required: false
